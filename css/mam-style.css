@@ -1,0 +1,8 @@
+.menu_group { padding:10px; background:#ebebeb; margin:0 10px 10px 0; float: left; width: 90%;}
+.submenuboxes {  margin: 0 0 0 20px!important; }
+.menu_option  { width:190px; float:left; }
+.submenu { margin: 0 5px 0 20px!important; }
+.parentmenu { margin: 0 5px 10px 0!important; }
+#removemsg { text-transform:capitalize; background: #FFF2AA; padding:5px; border-radius: 10px; float:left; width:90%;margin:10px 0;}
+#user_management option, #options_form h3 { text-transform:capitalize; }
+.mam_donate{float: right;width: 200px;height: 100px;margin: 20px;}
